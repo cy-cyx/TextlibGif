@@ -1,0 +1,10 @@
+#ifndef TEXTLIBGIF_CYXGIFLIB_H
+#define TEXTLIBGIF_CYXGIFLIB_H
+
+
+class cyxGifLib {
+
+};
+
+
+#endif //TEXTLIBGIF_CYXGIFLIB_H
